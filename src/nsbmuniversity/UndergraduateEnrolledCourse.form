@@ -1,0 +1,1489 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+    <Property name="title" type="java.lang.String" value="Enrolled for Undegraduate Student"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="jPanel1" alignment="0" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="jPanel1" min="-2" max="-2" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JPanel" name="jPanel1">
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="jTabbedPane1" max="32767" attributes="0"/>
+                  <EmptySpace max="-2" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <Component id="jTabbedPane1" max="32767" attributes="0"/>
+                  <EmptySpace max="-2" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Container class="javax.swing.JTabbedPane" name="jTabbedPane1">
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout"/>
+          <SubComponents>
+            <Container class="javax.swing.JPanel" name="jPanel2">
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout" value="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout$JTabbedPaneConstraintsDescription">
+                  <JTabbedPaneConstraints tabName="3rd Years">
+                    <Property name="tabTitle" type="java.lang.String" value="3rd Years"/>
+                  </JTabbedPaneConstraints>
+                </Constraint>
+              </Constraints>
+
+              <Layout>
+                <DimensionLayout dim="0">
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" attributes="0">
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="102" attributes="0">
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Group type="102" attributes="0">
+                                          <Group type="103" groupAlignment="1" max="-2" attributes="0">
+                                              <Component id="jLabel3" alignment="0" pref="141" max="32767" attributes="0"/>
+                                              <Component id="jLabel2" alignment="0" max="32767" attributes="0"/>
+                                              <Component id="jLabel31" alignment="1" max="32767" attributes="0"/>
+                                          </Group>
+                                          <EmptySpace type="separate" max="-2" attributes="0"/>
+                                          <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                              <Component id="txtNameIni" min="-2" pref="246" max="-2" attributes="0"/>
+                                              <Group type="102" attributes="0">
+                                                  <Component id="ddDepName" max="32767" attributes="0"/>
+                                                  <EmptySpace min="-2" pref="73" max="-2" attributes="0"/>
+                                              </Group>
+                                              <Component id="txtRegId" min="-2" pref="110" max="-2" attributes="0"/>
+                                          </Group>
+                                      </Group>
+                                      <Group type="102" alignment="0" attributes="0">
+                                          <Group type="103" groupAlignment="0" attributes="0">
+                                              <Group type="102" attributes="0">
+                                                  <Group type="103" groupAlignment="1" max="-2" attributes="0">
+                                                      <Component id="jLabel13" pref="141" max="32767" attributes="0"/>
+                                                      <Component id="jLabel11" alignment="0" max="32767" attributes="0"/>
+                                                      <Component id="jLabel10" alignment="0" max="32767" attributes="0"/>
+                                                      <Component id="jLabel9" alignment="0" max="32767" attributes="0"/>
+                                                      <Component id="jLabel12" alignment="0" max="32767" attributes="0"/>
+                                                      <Component id="jLabel8" alignment="0" max="32767" attributes="0"/>
+                                                      <Component id="jLabel6" alignment="0" max="32767" attributes="0"/>
+                                                      <Component id="jLabel7" alignment="0" max="32767" attributes="0"/>
+                                                      <Component id="jLabel20" alignment="0" max="32767" attributes="0"/>
+                                                      <Group type="102" alignment="0" attributes="0">
+                                                          <EmptySpace min="-2" pref="22" max="-2" attributes="0"/>
+                                                          <Component id="btnBack" min="-2" pref="109" max="-2" attributes="0"/>
+                                                      </Group>
+                                                  </Group>
+                                                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                                                  <Group type="103" groupAlignment="0" attributes="0">
+                                                      <Group type="103" alignment="0" groupAlignment="1" max="-2" attributes="0">
+                                                          <Component id="ddSubThreeSemTwo" alignment="0" max="32767" attributes="0"/>
+                                                          <Component id="ddSubTwoSemOne" alignment="0" max="32767" attributes="0"/>
+                                                          <Component id="ddSubTwoSemTwo" alignment="1" max="32767" attributes="0"/>
+                                                          <Component id="ddSubFourSemOne" alignment="1" max="32767" attributes="0"/>
+                                                          <Component id="ddSubThreeSemOne" alignment="0" pref="0" max="32767" attributes="0"/>
+                                                          <Component id="ddSubOneSemTwo" alignment="0" max="32767" attributes="0"/>
+                                                          <Component id="ddSubFourSemTwo" alignment="0" pref="0" max="32767" attributes="0"/>
+                                                          <Component id="ddSubOneSemOne" alignment="0" max="32767" attributes="0"/>
+                                                      </Group>
+                                                      <Component id="ddYearOfReg" min="-2" pref="100" max="-2" attributes="0"/>
+                                                      <Component id="btnSave" alignment="0" min="-2" pref="108" max="-2" attributes="0"/>
+                                                  </Group>
+                                                  <EmptySpace min="37" pref="37" max="-2" attributes="0"/>
+                                                  <Group type="103" groupAlignment="0" attributes="0">
+                                                      <Group type="103" groupAlignment="0" attributes="0">
+                                                          <Component id="txteight" alignment="1" min="-2" pref="42" max="-2" attributes="0"/>
+                                                          <Group type="103" groupAlignment="1" attributes="0">
+                                                              <Component id="txttwo" alignment="1" min="-2" pref="42" max="-2" attributes="0"/>
+                                                              <Component id="txtone" min="-2" pref="42" max="-2" attributes="0"/>
+                                                              <Component id="txtthree" alignment="1" min="-2" pref="42" max="-2" attributes="0"/>
+                                                              <Component id="txtfour" alignment="1" min="-2" pref="42" max="-2" attributes="0"/>
+                                                              <Component id="txtfive" alignment="1" min="-2" pref="42" max="-2" attributes="0"/>
+                                                              <Component id="txtsix" alignment="1" min="-2" pref="42" max="-2" attributes="0"/>
+                                                              <Component id="txtseven" alignment="1" min="-2" pref="42" max="-2" attributes="0"/>
+                                                          </Group>
+                                                      </Group>
+                                                      <Component id="txttotal" alignment="1" min="-2" pref="42" max="-2" attributes="0"/>
+                                                  </Group>
+                                                  <EmptySpace min="-2" pref="35" max="-2" attributes="0"/>
+                                              </Group>
+                                              <Group type="102" alignment="1" attributes="0">
+                                                  <Component id="jButton1" min="-2" pref="68" max="-2" attributes="0"/>
+                                                  <EmptySpace min="-2" pref="24" max="-2" attributes="0"/>
+                                              </Group>
+                                          </Group>
+                                          <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                              <Component id="txtfeeone" max="32767" attributes="0"/>
+                                              <Component id="txtfeetwo" max="32767" attributes="0"/>
+                                              <Component id="txtfeethree" max="32767" attributes="0"/>
+                                              <Component id="txtfeefour" max="32767" attributes="0"/>
+                                              <Component id="txtfeefive" max="32767" attributes="0"/>
+                                              <Component id="txtfeesix" max="32767" attributes="0"/>
+                                              <Component id="txtfeeseven" max="32767" attributes="0"/>
+                                              <Component id="txtfeeeight" pref="106" max="32767" attributes="0"/>
+                                          </Group>
+                                          <EmptySpace max="32767" attributes="0"/>
+                                          <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                              <Component id="ddCourse7Fee" alignment="1" pref="81" max="32767" attributes="0"/>
+                                              <Component id="ddCourse6Fee" alignment="1" max="32767" attributes="0"/>
+                                              <Component id="ddCourse5Fee" alignment="1" max="32767" attributes="0"/>
+                                              <Component id="ddCourse4Fee" alignment="1" max="32767" attributes="0"/>
+                                              <Component id="ddCourse3Fee" alignment="1" max="32767" attributes="0"/>
+                                              <Component id="ddCourse2Fee" alignment="1" max="32767" attributes="0"/>
+                                              <Component id="ddCourse1Fee" alignment="1" max="32767" attributes="0"/>
+                                              <Component id="ddCourse8Fee" max="32767" attributes="0"/>
+                                          </Group>
+                                      </Group>
+                                  </Group>
+                                  <EmptySpace min="-2" pref="32" max="-2" attributes="0"/>
+                              </Group>
+                              <Group type="102" alignment="1" attributes="0">
+                                  <EmptySpace min="0" pref="83" max="32767" attributes="0"/>
+                                  <Component id="jLabel37" min="-2" pref="558" max="-2" attributes="0"/>
+                                  <EmptySpace min="-2" pref="64" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                      </Group>
+                  </Group>
+                </DimensionLayout>
+                <DimensionLayout dim="1">
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" alignment="0" attributes="0">
+                          <Group type="103" groupAlignment="3" attributes="0">
+                              <Component id="jLabel31" alignment="3" min="-2" pref="25" max="-2" attributes="0"/>
+                              <Component id="txtRegId" alignment="3" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="3" attributes="0">
+                              <Component id="jLabel2" alignment="3" min="-2" pref="24" max="-2" attributes="0"/>
+                              <Component id="txtNameIni" alignment="3" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="3" attributes="0">
+                              <Component id="jLabel3" alignment="3" min="-2" pref="23" max="-2" attributes="0"/>
+                              <Component id="ddDepName" alignment="3" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="3" attributes="0">
+                              <Component id="jLabel20" alignment="3" min="-2" pref="23" max="-2" attributes="0"/>
+                              <Component id="ddYearOfReg" alignment="3" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="jLabel37" min="-2" pref="26" max="-2" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="3" attributes="0">
+                              <Component id="jLabel7" alignment="3" min="-2" pref="26" max="-2" attributes="0"/>
+                              <Component id="ddCourse1Fee" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="ddSubOneSemOne" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="txtone" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="txtfeeone" alignment="3" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace min="-2" pref="13" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="3" attributes="0">
+                              <Component id="jLabel6" alignment="3" min="-2" pref="26" max="-2" attributes="0"/>
+                              <Component id="ddSubTwoSemOne" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="ddCourse2Fee" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="txttwo" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="txtfeetwo" alignment="3" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="3" attributes="0">
+                              <Component id="jLabel8" alignment="3" min="-2" pref="26" max="-2" attributes="0"/>
+                              <Component id="ddSubThreeSemOne" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="ddCourse3Fee" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="txtthree" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="txtfeethree" alignment="3" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="3" attributes="0">
+                              <Component id="jLabel12" alignment="3" min="-2" pref="26" max="-2" attributes="0"/>
+                              <Component id="ddSubFourSemOne" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="ddCourse4Fee" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="txtfour" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="txtfeefour" alignment="3" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace min="-2" pref="32" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="3" attributes="0">
+                              <Component id="jLabel9" alignment="3" min="-2" pref="26" max="-2" attributes="0"/>
+                              <Component id="ddCourse5Fee" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="ddSubOneSemTwo" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="txtfive" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="txtfeefive" alignment="3" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="102" alignment="0" attributes="0">
+                                  <Group type="103" groupAlignment="3" attributes="0">
+                                      <Component id="jLabel10" alignment="3" min="-2" pref="26" max="-2" attributes="0"/>
+                                      <Component id="ddSubTwoSemTwo" alignment="3" min="-2" max="-2" attributes="0"/>
+                                      <Component id="txtsix" alignment="3" min="-2" max="-2" attributes="0"/>
+                                      <Component id="txtfeesix" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Group type="102" alignment="0" attributes="0">
+                                          <Group type="103" groupAlignment="3" attributes="0">
+                                              <Component id="jLabel11" alignment="3" min="-2" pref="26" max="-2" attributes="0"/>
+                                              <Component id="ddSubThreeSemTwo" alignment="3" min="-2" max="-2" attributes="0"/>
+                                              <Component id="txtseven" alignment="3" min="-2" max="-2" attributes="0"/>
+                                              <Component id="txtfeeseven" alignment="3" min="-2" max="-2" attributes="0"/>
+                                          </Group>
+                                          <EmptySpace max="-2" attributes="0"/>
+                                          <Group type="103" groupAlignment="0" attributes="0">
+                                              <Group type="103" groupAlignment="3" attributes="0">
+                                                  <Component id="jLabel13" alignment="3" min="-2" pref="26" max="-2" attributes="0"/>
+                                                  <Component id="ddSubFourSemTwo" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="txteight" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="txtfeeeight" alignment="3" min="-2" max="-2" attributes="0"/>
+                                              </Group>
+                                              <Component id="ddCourse8Fee" alignment="0" min="-2" max="-2" attributes="0"/>
+                                          </Group>
+                                      </Group>
+                                      <Component id="ddCourse7Fee" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                              </Group>
+                              <Component id="ddCourse6Fee" alignment="0" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="jButton1" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace min="-2" pref="4" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="3" attributes="0">
+                              <Component id="btnSave" alignment="3" min="-2" pref="38" max="-2" attributes="0"/>
+                              <Component id="btnBack" alignment="3" min="-2" pref="38" max="-2" attributes="0"/>
+                              <Component id="txttotal" alignment="3" min="-2" pref="38" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace min="-2" pref="92" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                </DimensionLayout>
+              </Layout>
+              <SubComponents>
+                <Component class="javax.swing.JLabel" name="jLabel2">
+                  <Properties>
+                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                      <Font name="Tahoma" size="14" style="0"/>
+                    </Property>
+                    <Property name="horizontalAlignment" type="int" value="4"/>
+                    <Property name="text" type="java.lang.String" value="Student Name"/>
+                  </Properties>
+                </Component>
+                <Component class="javax.swing.JLabel" name="jLabel3">
+                  <Properties>
+                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                      <Font name="Tahoma" size="14" style="0"/>
+                    </Property>
+                    <Property name="horizontalAlignment" type="int" value="4"/>
+                    <Property name="text" type="java.lang.String" value="Department Name"/>
+                  </Properties>
+                </Component>
+                <Component class="javax.swing.JLabel" name="jLabel20">
+                  <Properties>
+                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                      <Font name="Tahoma" size="14" style="0"/>
+                    </Property>
+                    <Property name="horizontalAlignment" type="int" value="4"/>
+                    <Property name="text" type="java.lang.String" value="Year of Registration"/>
+                  </Properties>
+                </Component>
+                <Component class="javax.swing.JLabel" name="jLabel7">
+                  <Properties>
+                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                      <Font name="Tahoma" size="14" style="0"/>
+                    </Property>
+                    <Property name="horizontalAlignment" type="int" value="4"/>
+                    <Property name="text" type="java.lang.String" value="Subject 1 for Sem 1"/>
+                  </Properties>
+                </Component>
+                <Component class="javax.swing.JLabel" name="jLabel6">
+                  <Properties>
+                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                      <Font name="Tahoma" size="14" style="0"/>
+                    </Property>
+                    <Property name="horizontalAlignment" type="int" value="4"/>
+                    <Property name="text" type="java.lang.String" value="Subject 2 for Sem 1"/>
+                  </Properties>
+                </Component>
+                <Component class="javax.swing.JLabel" name="jLabel8">
+                  <Properties>
+                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                      <Font name="Tahoma" size="14" style="0"/>
+                    </Property>
+                    <Property name="horizontalAlignment" type="int" value="4"/>
+                    <Property name="text" type="java.lang.String" value="Subject 3 for Sem 1"/>
+                  </Properties>
+                </Component>
+                <Component class="javax.swing.JLabel" name="jLabel12">
+                  <Properties>
+                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                      <Font name="Tahoma" size="14" style="0"/>
+                    </Property>
+                    <Property name="horizontalAlignment" type="int" value="4"/>
+                    <Property name="text" type="java.lang.String" value="Subject 4 for Sem 1"/>
+                  </Properties>
+                </Component>
+                <Component class="javax.swing.JLabel" name="jLabel9">
+                  <Properties>
+                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                      <Font name="Tahoma" size="14" style="0"/>
+                    </Property>
+                    <Property name="horizontalAlignment" type="int" value="4"/>
+                    <Property name="text" type="java.lang.String" value="Subject 1 for Sem 2"/>
+                  </Properties>
+                </Component>
+                <Component class="javax.swing.JLabel" name="jLabel10">
+                  <Properties>
+                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                      <Font name="Tahoma" size="14" style="0"/>
+                    </Property>
+                    <Property name="horizontalAlignment" type="int" value="4"/>
+                    <Property name="text" type="java.lang.String" value="Subject 2 for Sem 2"/>
+                  </Properties>
+                </Component>
+                <Component class="javax.swing.JLabel" name="jLabel11">
+                  <Properties>
+                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                      <Font name="Tahoma" size="14" style="0"/>
+                    </Property>
+                    <Property name="horizontalAlignment" type="int" value="4"/>
+                    <Property name="text" type="java.lang.String" value="Subject 3 for Sem 2"/>
+                  </Properties>
+                </Component>
+                <Component class="javax.swing.JLabel" name="jLabel13">
+                  <Properties>
+                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                      <Font name="Tahoma" size="14" style="0"/>
+                    </Property>
+                    <Property name="horizontalAlignment" type="int" value="4"/>
+                    <Property name="text" type="java.lang.String" value="Subject 4 for Sem 2"/>
+                  </Properties>
+                </Component>
+                <Component class="javax.swing.JTextField" name="txtNameIni">
+                </Component>
+                <Component class="javax.swing.JComboBox" name="ddDepName">
+                  <Properties>
+                    <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+                      <StringArray count="3">
+                        <StringItem index="0" value="School of Business"/>
+                        <StringItem index="1" value="School of Computing"/>
+                        <StringItem index="2" value="School of Engineering"/>
+                      </StringArray>
+                    </Property>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JComboBox" name="ddYearOfReg">
+                  <Properties>
+                    <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+                      <StringArray count="4">
+                        <StringItem index="0" value="2016"/>
+                        <StringItem index="1" value="2017"/>
+                        <StringItem index="2" value="2018"/>
+                        <StringItem index="3" value="2019"/>
+                      </StringArray>
+                    </Property>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="ddYearOfRegActionPerformed"/>
+                  </Events>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JComboBox" name="ddSubTwoSemTwo">
+                  <Properties>
+                    <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+                      <StringArray count="3">
+                        <StringItem index="0" value="Data Structure and Algo"/>
+                        <StringItem index="1" value="Statics"/>
+                        <StringItem index="2" value="Mathematical Method"/>
+                      </StringArray>
+                    </Property>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="ddSubTwoSemTwoActionPerformed"/>
+                  </Events>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JComboBox" name="ddSubTwoSemOne">
+                  <Properties>
+                    <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+                      <StringArray count="3">
+                        <StringItem index="0" value="Programming"/>
+                        <StringItem index="1" value="Discrete Mathematics"/>
+                        <StringItem index="2" value="Laboratary"/>
+                      </StringArray>
+                    </Property>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="ddSubTwoSemOneActionPerformed"/>
+                  </Events>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JComboBox" name="ddSubThreeSemOne">
+                  <Properties>
+                    <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+                      <StringArray count="3">
+                        <StringItem index="0" value="Software Engineering"/>
+                        <StringItem index="1" value="Foundation of Computer Seince"/>
+                        <StringItem index="2" value="Computer System"/>
+                      </StringArray>
+                    </Property>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="ddSubThreeSemOneActionPerformed"/>
+                  </Events>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JComboBox" name="ddSubFourSemOne">
+                  <Properties>
+                    <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+                      <StringArray count="3">
+                        <StringItem index="0" value="Database"/>
+                        <StringItem index="1" value="Computer Network"/>
+                        <StringItem index="2" value="Automata"/>
+                      </StringArray>
+                    </Property>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="ddSubFourSemOneActionPerformed"/>
+                  </Events>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JComboBox" name="ddCourse1Fee">
+                  <Properties>
+                    <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+                      <StringArray count="4">
+                        <StringItem index="0" value="2500"/>
+                        <StringItem index="1" value="3000"/>
+                        <StringItem index="2" value="3500"/>
+                        <StringItem index="3" value="4000"/>
+                      </StringArray>
+                    </Property>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JComboBox" name="ddCourse2Fee">
+                  <Properties>
+                    <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+                      <StringArray count="4">
+                        <StringItem index="0" value="2500"/>
+                        <StringItem index="1" value="3000"/>
+                        <StringItem index="2" value="3500"/>
+                        <StringItem index="3" value="4000"/>
+                      </StringArray>
+                    </Property>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="ddCourse2FeeActionPerformed"/>
+                  </Events>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JComboBox" name="ddCourse3Fee">
+                  <Properties>
+                    <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+                      <StringArray count="4">
+                        <StringItem index="0" value="2500"/>
+                        <StringItem index="1" value="3000"/>
+                        <StringItem index="2" value="3500"/>
+                        <StringItem index="3" value="4000"/>
+                      </StringArray>
+                    </Property>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JComboBox" name="ddCourse4Fee">
+                  <Properties>
+                    <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+                      <StringArray count="4">
+                        <StringItem index="0" value="2500"/>
+                        <StringItem index="1" value="3000"/>
+                        <StringItem index="2" value="3500"/>
+                        <StringItem index="3" value="4000"/>
+                      </StringArray>
+                    </Property>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JComboBox" name="ddCourse6Fee">
+                  <Properties>
+                    <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+                      <StringArray count="4">
+                        <StringItem index="0" value="2500"/>
+                        <StringItem index="1" value="3000"/>
+                        <StringItem index="2" value="3500"/>
+                        <StringItem index="3" value="4000"/>
+                      </StringArray>
+                    </Property>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JComboBox" name="ddCourse7Fee">
+                  <Properties>
+                    <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+                      <StringArray count="4">
+                        <StringItem index="0" value="2500"/>
+                        <StringItem index="1" value="3000"/>
+                        <StringItem index="2" value="3500"/>
+                        <StringItem index="3" value="4000"/>
+                      </StringArray>
+                    </Property>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JComboBox" name="ddCourse8Fee">
+                  <Properties>
+                    <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+                      <StringArray count="4">
+                        <StringItem index="0" value="2500"/>
+                        <StringItem index="1" value="3000"/>
+                        <StringItem index="2" value="3500"/>
+                        <StringItem index="3" value="4000"/>
+                      </StringArray>
+                    </Property>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JComboBox" name="ddCourse5Fee">
+                  <Properties>
+                    <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+                      <StringArray count="4">
+                        <StringItem index="0" value="2500"/>
+                        <StringItem index="1" value="3000"/>
+                        <StringItem index="2" value="3500"/>
+                        <StringItem index="3" value="4000"/>
+                      </StringArray>
+                    </Property>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JButton" name="btnSave">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="Save"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnSaveActionPerformed"/>
+                  </Events>
+                </Component>
+                <Component class="javax.swing.JComboBox" name="ddSubOneSemTwo">
+                  <Properties>
+                    <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+                      <StringArray count="3">
+                        <StringItem index="0" value="Programming"/>
+                        <StringItem index="1" value="Discrete Mathematics"/>
+                        <StringItem index="2" value="Laboratary"/>
+                      </StringArray>
+                    </Property>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="ddSubOneSemTwoActionPerformed"/>
+                  </Events>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JComboBox" name="ddSubOneSemOne">
+                  <Properties>
+                    <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+                      <StringArray count="3">
+                        <StringItem index="0" value="Data Structure and Algo"/>
+                        <StringItem index="1" value="Statics"/>
+                        <StringItem index="2" value="Mathematical Method"/>
+                      </StringArray>
+                    </Property>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="ddSubOneSemOneActionPerformed"/>
+                  </Events>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JComboBox" name="ddSubThreeSemTwo">
+                  <Properties>
+                    <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+                      <StringArray count="3">
+                        <StringItem index="0" value="Database"/>
+                        <StringItem index="1" value="Computer Network"/>
+                        <StringItem index="2" value="Automata"/>
+                      </StringArray>
+                    </Property>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="ddSubThreeSemTwoActionPerformed"/>
+                  </Events>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JComboBox" name="ddSubFourSemTwo">
+                  <Properties>
+                    <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+                      <StringArray count="3">
+                        <StringItem index="0" value="Software Engineering"/>
+                        <StringItem index="1" value="Foundation of Computer Seince"/>
+                        <StringItem index="2" value="Computer System"/>
+                      </StringArray>
+                    </Property>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="ddSubFourSemTwoActionPerformed"/>
+                  </Events>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JLabel" name="jLabel37">
+                  <Properties>
+                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                      <Font name="Tahoma" size="18" style="0"/>
+                    </Property>
+                    <Property name="horizontalAlignment" type="int" value="0"/>
+                    <Property name="text" type="java.lang.String" value="Select Subject Completing 18 Credit for 3rd Year Student"/>
+                  </Properties>
+                </Component>
+                <Component class="javax.swing.JButton" name="btnBack">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="Back"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnBackActionPerformed"/>
+                  </Events>
+                </Component>
+                <Component class="javax.swing.JLabel" name="jLabel31">
+                  <Properties>
+                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                      <Font name="Tahoma" size="14" style="0"/>
+                    </Property>
+                    <Property name="horizontalAlignment" type="int" value="4"/>
+                    <Property name="text" type="java.lang.String" value="Reg Id"/>
+                  </Properties>
+                </Component>
+                <Component class="javax.swing.JTextField" name="txtRegId">
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="txtRegIdActionPerformed"/>
+                  </Events>
+                </Component>
+                <Component class="javax.swing.JTextField" name="txtone">
+                </Component>
+                <Component class="javax.swing.JTextField" name="txttwo">
+                </Component>
+                <Component class="javax.swing.JTextField" name="txtthree">
+                </Component>
+                <Component class="javax.swing.JTextField" name="txtfour">
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="txtfourActionPerformed"/>
+                  </Events>
+                </Component>
+                <Component class="javax.swing.JTextField" name="txtfive">
+                </Component>
+                <Component class="javax.swing.JTextField" name="txtsix">
+                </Component>
+                <Component class="javax.swing.JTextField" name="txtseven">
+                </Component>
+                <Component class="javax.swing.JTextField" name="txteight">
+                </Component>
+                <Component class="javax.swing.JTextField" name="txtfeeone">
+                </Component>
+                <Component class="javax.swing.JTextField" name="txtfeetwo">
+                </Component>
+                <Component class="javax.swing.JTextField" name="txtfeethree">
+                </Component>
+                <Component class="javax.swing.JTextField" name="txtfeefour">
+                </Component>
+                <Component class="javax.swing.JTextField" name="txtfeefive">
+                </Component>
+                <Component class="javax.swing.JTextField" name="txtfeesix">
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="txtfeesixActionPerformed"/>
+                  </Events>
+                </Component>
+                <Component class="javax.swing.JTextField" name="txtfeeseven">
+                </Component>
+                <Component class="javax.swing.JTextField" name="txtfeeeight">
+                </Component>
+                <Component class="javax.swing.JTextField" name="txttotal">
+                </Component>
+                <Component class="javax.swing.JButton" name="jButton1">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="Total"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton1ActionPerformed"/>
+                  </Events>
+                </Component>
+              </SubComponents>
+            </Container>
+            <Container class="javax.swing.JPanel" name="jPanel3">
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout" value="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout$JTabbedPaneConstraintsDescription">
+                  <JTabbedPaneConstraints tabName="4th Years">
+                    <Property name="tabTitle" type="java.lang.String" value="4th Years"/>
+                  </JTabbedPaneConstraints>
+                </Constraint>
+              </Constraints>
+
+              <Layout>
+                <DimensionLayout dim="0">
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" attributes="0">
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="102" attributes="0">
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="1" attributes="0">
+                                      <Component id="jLabel35" alignment="1" max="32767" attributes="0"/>
+                                      <Component id="jLabel34" max="32767" attributes="0"/>
+                                      <Component id="jLabel33" max="32767" attributes="0"/>
+                                      <Component id="jLabel32" alignment="1" max="32767" attributes="0"/>
+                                      <Component id="jLabel30" max="32767" attributes="0"/>
+                                      <Component id="jLabel29" max="32767" attributes="0"/>
+                                      <Component id="jLabel28" max="32767" attributes="0"/>
+                                      <Component id="jLabel27" max="32767" attributes="0"/>
+                                      <Component id="jLabel26" max="32767" attributes="0"/>
+                                      <Component id="jLabel25" max="32767" attributes="0"/>
+                                      <Component id="jLabel24" max="32767" attributes="0"/>
+                                      <Component id="jLabel36" alignment="1" max="32767" attributes="0"/>
+                                  </Group>
+                                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                              </Group>
+                              <Group type="102" alignment="1" attributes="0">
+                                  <EmptySpace pref="23" max="32767" attributes="0"/>
+                                  <Component id="btnBack1" min="-2" pref="109" max="-2" attributes="0"/>
+                                  <EmptySpace min="-2" pref="62" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="102" alignment="0" attributes="0">
+                                  <Group type="103" groupAlignment="1" attributes="0">
+                                      <Component id="jLabel19" alignment="1" pref="489" max="32767" attributes="0"/>
+                                      <Group type="102" alignment="0" attributes="0">
+                                          <Group type="103" groupAlignment="0" attributes="0">
+                                              <Group type="103" alignment="0" groupAlignment="1" max="-2" attributes="0">
+                                                  <Component id="ddSubFourSemOne4" alignment="0" max="32767" attributes="0"/>
+                                                  <Component id="ddSubOneSemOne4" alignment="0" pref="153" max="32767" attributes="0"/>
+                                                  <Component id="ddSubTwoSemOne4" alignment="0" max="32767" attributes="0"/>
+                                                  <Component id="ddSubFourSemOne3" alignment="0" max="32767" attributes="0"/>
+                                                  <Component id="ddSubThreeSemOne3" alignment="0" pref="0" max="32767" attributes="0"/>
+                                                  <Component id="ddSubTwoSemOne3" alignment="0" max="32767" attributes="0"/>
+                                                  <Component id="ddSubOneSemOne3" alignment="0" max="32767" attributes="0"/>
+                                                  <Component id="ddSubThreeSemOne4" pref="0" max="32767" attributes="0"/>
+                                              </Group>
+                                              <Component id="btnSave1" alignment="0" min="-2" pref="108" max="-2" attributes="0"/>
+                                          </Group>
+                                          <EmptySpace min="-2" pref="42" max="-2" attributes="0"/>
+                                          <Group type="103" groupAlignment="0" attributes="0">
+                                              <Group type="102" attributes="0">
+                                                  <Component id="txttotal1" min="-2" pref="42" max="-2" attributes="0"/>
+                                                  <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                                              </Group>
+                                              <Group type="102" attributes="0">
+                                                  <Group type="103" groupAlignment="1" attributes="0">
+                                                      <Component id="txttwo1" min="-2" pref="44" max="-2" attributes="0"/>
+                                                      <Component id="txtone1" min="-2" pref="44" max="-2" attributes="0"/>
+                                                      <Component id="txtthree1" alignment="1" min="-2" pref="44" max="-2" attributes="0"/>
+                                                      <Component id="txtfour1" alignment="1" min="-2" pref="44" max="-2" attributes="0"/>
+                                                      <Component id="txtfive1" alignment="1" min="-2" pref="44" max="-2" attributes="0"/>
+                                                      <Component id="txtsix1" alignment="1" min="-2" pref="44" max="-2" attributes="0"/>
+                                                      <Component id="txtseven1" alignment="1" min="-2" pref="44" max="-2" attributes="0"/>
+                                                      <Component id="txteight1" min="-2" pref="44" max="-2" attributes="0"/>
+                                                  </Group>
+                                                  <EmptySpace min="-2" pref="25" max="-2" attributes="0"/>
+                                                  <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                                      <Component id="txtfeetwo1" max="32767" attributes="0"/>
+                                                      <Component id="txtfeeone1" max="32767" attributes="0"/>
+                                                      <Component id="txtfeethree1" max="32767" attributes="0"/>
+                                                      <Component id="txtfeefour1" alignment="0" max="32767" attributes="0"/>
+                                                      <Component id="txtfeefive1" alignment="0" max="32767" attributes="0"/>
+                                                      <Component id="txtfeesix1" alignment="0" max="32767" attributes="0"/>
+                                                      <Component id="txtfeeseven1" alignment="0" max="32767" attributes="0"/>
+                                                      <Component id="txtfeeeight1" alignment="0" pref="106" max="32767" attributes="0"/>
+                                                  </Group>
+                                                  <EmptySpace type="separate" pref="40" max="32767" attributes="0"/>
+                                                  <Group type="103" groupAlignment="0" attributes="0">
+                                                      <Component id="ddCourse2Fee1" max="32767" attributes="0"/>
+                                                      <Component id="ddCourse3Fee1" alignment="0" pref="0" max="32767" attributes="0"/>
+                                                      <Component id="ddCourse4Fee1" alignment="0" pref="0" max="32767" attributes="0"/>
+                                                      <Component id="ddCourse5Fee1" alignment="0" pref="0" max="32767" attributes="0"/>
+                                                      <Component id="ddCourse6Fee1" alignment="0" pref="0" max="32767" attributes="0"/>
+                                                      <Component id="ddCourse7Fee1" alignment="0" pref="0" max="32767" attributes="0"/>
+                                                      <Component id="ddCourse8Fee1" alignment="0" pref="0" max="32767" attributes="0"/>
+                                                      <Group type="102" attributes="0">
+                                                          <Component id="ddCourse1Fee1" min="-2" pref="79" max="-2" attributes="0"/>
+                                                          <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                                                      </Group>
+                                                  </Group>
+                                              </Group>
+                                          </Group>
+                                      </Group>
+                                  </Group>
+                                  <EmptySpace min="-2" pref="32" max="-2" attributes="0"/>
+                              </Group>
+                              <Group type="102" attributes="0">
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Component id="txtNameIni1" min="-2" pref="246" max="-2" attributes="0"/>
+                                      <Component id="ddDepName1" min="-2" pref="161" max="-2" attributes="0"/>
+                                      <Component id="ddYearOfReg1" min="-2" pref="100" max="-2" attributes="0"/>
+                                      <Component id="txtRegId1" min="-2" pref="110" max="-2" attributes="0"/>
+                                  </Group>
+                                  <EmptySpace max="32767" attributes="0"/>
+                              </Group>
+                          </Group>
+                      </Group>
+                      <Group type="102" alignment="1" attributes="0">
+                          <EmptySpace max="32767" attributes="0"/>
+                          <Component id="jButton2" min="-2" pref="68" max="-2" attributes="0"/>
+                          <EmptySpace min="-2" pref="267" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                </DimensionLayout>
+                <DimensionLayout dim="1">
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" alignment="0" attributes="0">
+                          <Group type="103" groupAlignment="3" attributes="0">
+                              <Component id="jLabel36" alignment="3" min="-2" pref="25" max="-2" attributes="0"/>
+                              <Component id="txtRegId1" alignment="3" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace min="-2" pref="4" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="3" attributes="0">
+                              <Component id="jLabel24" alignment="3" min="-2" pref="24" max="-2" attributes="0"/>
+                              <Component id="txtNameIni1" alignment="3" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="3" attributes="0">
+                              <Component id="jLabel25" alignment="3" min="-2" pref="23" max="-2" attributes="0"/>
+                              <Component id="ddDepName1" alignment="3" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="3" attributes="0">
+                              <Component id="jLabel26" alignment="3" min="-2" pref="23" max="-2" attributes="0"/>
+                              <Component id="ddYearOfReg1" alignment="3" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                          <Component id="jLabel19" min="-2" pref="27" max="-2" attributes="0"/>
+                          <EmptySpace min="-2" pref="1" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="3" attributes="0">
+                              <Component id="jLabel32" alignment="3" min="-2" pref="26" max="-2" attributes="0"/>
+                              <Component id="ddSubOneSemOne3" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="ddCourse1Fee1" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="txtone1" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="txtfeeone1" alignment="3" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="3" attributes="0">
+                              <Component id="jLabel33" alignment="3" min="-2" pref="26" max="-2" attributes="0"/>
+                              <Component id="ddSubTwoSemOne3" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="ddCourse2Fee1" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="txttwo1" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="txtfeetwo1" alignment="3" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="3" attributes="0">
+                              <Component id="jLabel34" alignment="3" min="-2" pref="26" max="-2" attributes="0"/>
+                              <Component id="ddSubThreeSemOne3" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="ddCourse3Fee1" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="txtthree1" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="txtfeethree1" alignment="3" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="3" attributes="0">
+                              <Component id="jLabel35" alignment="3" min="-2" pref="26" max="-2" attributes="0"/>
+                              <Component id="ddSubFourSemOne3" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="ddCourse4Fee1" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="txtfour1" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="txtfeefour1" alignment="3" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace min="-2" pref="55" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="3" attributes="0">
+                              <Component id="jLabel27" alignment="3" min="-2" pref="26" max="-2" attributes="0"/>
+                              <Component id="ddSubTwoSemOne4" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="ddCourse5Fee1" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="txtfive1" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="txtfeefive1" alignment="3" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="3" attributes="0">
+                              <Component id="jLabel28" alignment="3" min="-2" pref="26" max="-2" attributes="0"/>
+                              <Component id="ddSubOneSemOne4" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="ddCourse6Fee1" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="txtsix1" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="txtfeesix1" alignment="3" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="3" attributes="0">
+                              <Component id="jLabel29" alignment="3" min="-2" pref="26" max="-2" attributes="0"/>
+                              <Component id="ddSubFourSemOne4" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="ddCourse7Fee1" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="txtseven1" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="txtfeeseven1" alignment="3" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="3" attributes="0">
+                              <Component id="jLabel30" alignment="3" min="-2" pref="26" max="-2" attributes="0"/>
+                              <Component id="ddSubThreeSemOne4" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="ddCourse8Fee1" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="txteight1" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="txtfeeeight1" alignment="3" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="jButton2" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="3" attributes="0">
+                              <Component id="btnSave1" alignment="3" min="-2" pref="38" max="-2" attributes="0"/>
+                              <Component id="btnBack1" alignment="3" min="-2" pref="38" max="-2" attributes="0"/>
+                              <Component id="txttotal1" alignment="3" min="-2" pref="38" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace pref="92" max="32767" attributes="0"/>
+                      </Group>
+                  </Group>
+                </DimensionLayout>
+              </Layout>
+              <SubComponents>
+                <Component class="javax.swing.JLabel" name="jLabel24">
+                  <Properties>
+                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                      <Font name="Tahoma" size="14" style="0"/>
+                    </Property>
+                    <Property name="horizontalAlignment" type="int" value="4"/>
+                    <Property name="text" type="java.lang.String" value="Student Name"/>
+                  </Properties>
+                </Component>
+                <Component class="javax.swing.JLabel" name="jLabel25">
+                  <Properties>
+                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                      <Font name="Tahoma" size="14" style="0"/>
+                    </Property>
+                    <Property name="horizontalAlignment" type="int" value="4"/>
+                    <Property name="text" type="java.lang.String" value="Department Name"/>
+                  </Properties>
+                </Component>
+                <Component class="javax.swing.JLabel" name="jLabel26">
+                  <Properties>
+                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                      <Font name="Tahoma" size="14" style="0"/>
+                    </Property>
+                    <Property name="horizontalAlignment" type="int" value="4"/>
+                    <Property name="text" type="java.lang.String" value="Year of Registration"/>
+                  </Properties>
+                </Component>
+                <Component class="javax.swing.JLabel" name="jLabel27">
+                  <Properties>
+                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                      <Font name="Tahoma" size="14" style="0"/>
+                    </Property>
+                    <Property name="horizontalAlignment" type="int" value="4"/>
+                    <Property name="text" type="java.lang.String" value="Subject 1 for Sem 2"/>
+                  </Properties>
+                </Component>
+                <Component class="javax.swing.JLabel" name="jLabel28">
+                  <Properties>
+                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                      <Font name="Tahoma" size="14" style="0"/>
+                    </Property>
+                    <Property name="horizontalAlignment" type="int" value="4"/>
+                    <Property name="text" type="java.lang.String" value="Subject 2 for Sem 2"/>
+                  </Properties>
+                </Component>
+                <Component class="javax.swing.JLabel" name="jLabel29">
+                  <Properties>
+                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                      <Font name="Tahoma" size="14" style="0"/>
+                    </Property>
+                    <Property name="horizontalAlignment" type="int" value="4"/>
+                    <Property name="text" type="java.lang.String" value="Subject 3 for Sem 2"/>
+                  </Properties>
+                </Component>
+                <Component class="javax.swing.JLabel" name="jLabel30">
+                  <Properties>
+                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                      <Font name="Tahoma" size="14" style="0"/>
+                    </Property>
+                    <Property name="horizontalAlignment" type="int" value="4"/>
+                    <Property name="text" type="java.lang.String" value="Subject 4 for Sem 2"/>
+                  </Properties>
+                </Component>
+                <Component class="javax.swing.JTextField" name="txtNameIni1">
+                </Component>
+                <Component class="javax.swing.JComboBox" name="ddDepName1">
+                  <Properties>
+                    <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+                      <StringArray count="3">
+                        <StringItem index="0" value="School of Business"/>
+                        <StringItem index="1" value="School of Computing"/>
+                        <StringItem index="2" value="School of Engineering"/>
+                      </StringArray>
+                    </Property>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JComboBox" name="ddYearOfReg1">
+                  <Properties>
+                    <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+                      <StringArray count="4">
+                        <StringItem index="0" value="2016"/>
+                        <StringItem index="1" value="2017"/>
+                        <StringItem index="2" value="2018"/>
+                        <StringItem index="3" value="2019"/>
+                      </StringArray>
+                    </Property>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="ddYearOfReg1ActionPerformed"/>
+                  </Events>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JLabel" name="jLabel32">
+                  <Properties>
+                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                      <Font name="Tahoma" size="14" style="0"/>
+                    </Property>
+                    <Property name="horizontalAlignment" type="int" value="4"/>
+                    <Property name="text" type="java.lang.String" value="Subject 1 for Sem 1"/>
+                  </Properties>
+                </Component>
+                <Component class="javax.swing.JLabel" name="jLabel33">
+                  <Properties>
+                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                      <Font name="Tahoma" size="14" style="0"/>
+                    </Property>
+                    <Property name="horizontalAlignment" type="int" value="4"/>
+                    <Property name="text" type="java.lang.String" value="Subject 2 for Sem 1"/>
+                  </Properties>
+                </Component>
+                <Component class="javax.swing.JLabel" name="jLabel34">
+                  <Properties>
+                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                      <Font name="Tahoma" size="14" style="0"/>
+                    </Property>
+                    <Property name="horizontalAlignment" type="int" value="4"/>
+                    <Property name="text" type="java.lang.String" value="Subject 3 for Sem 1"/>
+                  </Properties>
+                </Component>
+                <Component class="javax.swing.JLabel" name="jLabel35">
+                  <Properties>
+                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                      <Font name="Tahoma" size="14" style="0"/>
+                    </Property>
+                    <Property name="horizontalAlignment" type="int" value="4"/>
+                    <Property name="text" type="java.lang.String" value="Subject 4 for Sem 1"/>
+                  </Properties>
+                </Component>
+                <Component class="javax.swing.JLabel" name="jLabel19">
+                  <Properties>
+                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                      <Font name="Tahoma" size="18" style="0"/>
+                    </Property>
+                    <Property name="horizontalAlignment" type="int" value="0"/>
+                    <Property name="text" type="java.lang.String" value="Select Subject Completing 26 Credit for 4th year Student"/>
+                  </Properties>
+                </Component>
+                <Component class="javax.swing.JComboBox" name="ddSubOneSemOne3">
+                  <Properties>
+                    <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+                      <StringArray count="3">
+                        <StringItem index="0" value="Data Structure and Algo"/>
+                        <StringItem index="1" value="Statics"/>
+                        <StringItem index="2" value="Mathematical Method"/>
+                      </StringArray>
+                    </Property>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="ddSubOneSemOne3ActionPerformed"/>
+                  </Events>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JComboBox" name="ddSubTwoSemOne3">
+                  <Properties>
+                    <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+                      <StringArray count="3">
+                        <StringItem index="0" value="Programming"/>
+                        <StringItem index="1" value="Discrete Mathematics"/>
+                        <StringItem index="2" value="Laboratary"/>
+                      </StringArray>
+                    </Property>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="ddSubTwoSemOne3ActionPerformed"/>
+                  </Events>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JComboBox" name="ddSubThreeSemOne3">
+                  <Properties>
+                    <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+                      <StringArray count="3">
+                        <StringItem index="0" value="Software Engineering"/>
+                        <StringItem index="1" value="Foundation of Computer Seince"/>
+                        <StringItem index="2" value="Computer System"/>
+                      </StringArray>
+                    </Property>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="ddSubThreeSemOne3ActionPerformed"/>
+                  </Events>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JComboBox" name="ddSubFourSemOne3">
+                  <Properties>
+                    <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+                      <StringArray count="3">
+                        <StringItem index="0" value="Database"/>
+                        <StringItem index="1" value="Computer Network"/>
+                        <StringItem index="2" value="Automata"/>
+                      </StringArray>
+                    </Property>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="ddSubFourSemOne3ActionPerformed"/>
+                  </Events>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JComboBox" name="ddSubTwoSemOne4">
+                  <Properties>
+                    <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+                      <StringArray count="3">
+                        <StringItem index="0" value="Programming"/>
+                        <StringItem index="1" value="Discrete Mathematics"/>
+                        <StringItem index="2" value="Laboratary"/>
+                      </StringArray>
+                    </Property>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="ddSubTwoSemOne4ActionPerformed"/>
+                  </Events>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JComboBox" name="ddSubOneSemOne4">
+                  <Properties>
+                    <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+                      <StringArray count="3">
+                        <StringItem index="0" value="Data Structure and Algo"/>
+                        <StringItem index="1" value="Statics"/>
+                        <StringItem index="2" value="Mathematical Method"/>
+                      </StringArray>
+                    </Property>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="ddSubOneSemOne4ActionPerformed"/>
+                  </Events>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JComboBox" name="ddSubFourSemOne4">
+                  <Properties>
+                    <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+                      <StringArray count="3">
+                        <StringItem index="0" value="Database"/>
+                        <StringItem index="1" value="Computer Network"/>
+                        <StringItem index="2" value="Automata"/>
+                      </StringArray>
+                    </Property>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="ddSubFourSemOne4ActionPerformed"/>
+                  </Events>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JComboBox" name="ddSubThreeSemOne4">
+                  <Properties>
+                    <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+                      <StringArray count="3">
+                        <StringItem index="0" value="Software Engineering"/>
+                        <StringItem index="1" value="Foundation of Computer Seince"/>
+                        <StringItem index="2" value="Computer System"/>
+                      </StringArray>
+                    </Property>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="ddSubThreeSemOne4ActionPerformed"/>
+                  </Events>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JComboBox" name="ddCourse1Fee1">
+                  <Properties>
+                    <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+                      <StringArray count="4">
+                        <StringItem index="0" value="2500"/>
+                        <StringItem index="1" value="3000"/>
+                        <StringItem index="2" value="3500"/>
+                        <StringItem index="3" value="4000"/>
+                      </StringArray>
+                    </Property>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JComboBox" name="ddCourse2Fee1">
+                  <Properties>
+                    <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+                      <StringArray count="4">
+                        <StringItem index="0" value="2500"/>
+                        <StringItem index="1" value="3000"/>
+                        <StringItem index="2" value="3500"/>
+                        <StringItem index="3" value="4000"/>
+                      </StringArray>
+                    </Property>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="ddCourse2Fee1ActionPerformed"/>
+                  </Events>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JComboBox" name="ddCourse3Fee1">
+                  <Properties>
+                    <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+                      <StringArray count="4">
+                        <StringItem index="0" value="2500"/>
+                        <StringItem index="1" value="3000"/>
+                        <StringItem index="2" value="3500"/>
+                        <StringItem index="3" value="4000"/>
+                      </StringArray>
+                    </Property>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JComboBox" name="ddCourse4Fee1">
+                  <Properties>
+                    <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+                      <StringArray count="4">
+                        <StringItem index="0" value="2500"/>
+                        <StringItem index="1" value="3000"/>
+                        <StringItem index="2" value="3500"/>
+                        <StringItem index="3" value="4000"/>
+                      </StringArray>
+                    </Property>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JComboBox" name="ddCourse5Fee1">
+                  <Properties>
+                    <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+                      <StringArray count="4">
+                        <StringItem index="0" value="2500"/>
+                        <StringItem index="1" value="3000"/>
+                        <StringItem index="2" value="3500"/>
+                        <StringItem index="3" value="4000"/>
+                      </StringArray>
+                    </Property>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JComboBox" name="ddCourse6Fee1">
+                  <Properties>
+                    <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+                      <StringArray count="4">
+                        <StringItem index="0" value="2500"/>
+                        <StringItem index="1" value="3000"/>
+                        <StringItem index="2" value="3500"/>
+                        <StringItem index="3" value="4000"/>
+                      </StringArray>
+                    </Property>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JComboBox" name="ddCourse7Fee1">
+                  <Properties>
+                    <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+                      <StringArray count="4">
+                        <StringItem index="0" value="2500"/>
+                        <StringItem index="1" value="3000"/>
+                        <StringItem index="2" value="3500"/>
+                        <StringItem index="3" value="4000"/>
+                      </StringArray>
+                    </Property>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JComboBox" name="ddCourse8Fee1">
+                  <Properties>
+                    <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+                      <StringArray count="4">
+                        <StringItem index="0" value="2500"/>
+                        <StringItem index="1" value="3000"/>
+                        <StringItem index="2" value="3500"/>
+                        <StringItem index="3" value="4000"/>
+                      </StringArray>
+                    </Property>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JButton" name="btnSave1">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="Save"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnSave1ActionPerformed"/>
+                  </Events>
+                </Component>
+                <Component class="javax.swing.JButton" name="btnBack1">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="Back"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnBack1ActionPerformed"/>
+                  </Events>
+                </Component>
+                <Component class="javax.swing.JLabel" name="jLabel36">
+                  <Properties>
+                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                      <Font name="Tahoma" size="14" style="0"/>
+                    </Property>
+                    <Property name="horizontalAlignment" type="int" value="4"/>
+                    <Property name="text" type="java.lang.String" value="Reg Id"/>
+                  </Properties>
+                </Component>
+                <Component class="javax.swing.JTextField" name="txtRegId1">
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="txtRegId1ActionPerformed"/>
+                  </Events>
+                </Component>
+                <Component class="javax.swing.JTextField" name="txtone1">
+                </Component>
+                <Component class="javax.swing.JTextField" name="txttwo1">
+                </Component>
+                <Component class="javax.swing.JTextField" name="txtthree1">
+                </Component>
+                <Component class="javax.swing.JTextField" name="txtfour1">
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="txtfour1ActionPerformed"/>
+                  </Events>
+                </Component>
+                <Component class="javax.swing.JTextField" name="txtfive1">
+                </Component>
+                <Component class="javax.swing.JTextField" name="txtsix1">
+                </Component>
+                <Component class="javax.swing.JTextField" name="txtseven1">
+                </Component>
+                <Component class="javax.swing.JTextField" name="txteight1">
+                </Component>
+                <Component class="javax.swing.JTextField" name="txtfeeone1">
+                </Component>
+                <Component class="javax.swing.JTextField" name="txtfeetwo1">
+                </Component>
+                <Component class="javax.swing.JTextField" name="txtfeethree1">
+                </Component>
+                <Component class="javax.swing.JTextField" name="txtfeefour1">
+                </Component>
+                <Component class="javax.swing.JTextField" name="txtfeefive1">
+                </Component>
+                <Component class="javax.swing.JTextField" name="txtfeesix1">
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="txtfeesix1ActionPerformed"/>
+                  </Events>
+                </Component>
+                <Component class="javax.swing.JTextField" name="txtfeeseven1">
+                </Component>
+                <Component class="javax.swing.JTextField" name="txtfeeeight1">
+                </Component>
+                <Component class="javax.swing.JTextField" name="txttotal1">
+                </Component>
+                <Component class="javax.swing.JButton" name="jButton2">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="Total"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton2ActionPerformed"/>
+                  </Events>
+                </Component>
+              </SubComponents>
+            </Container>
+          </SubComponents>
+        </Container>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>
